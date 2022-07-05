@@ -1,0 +1,51 @@
+.background {
+    position: absolute;
+    width: 1622px;
+    height: 1543px;
+    left: -519px;
+    top: 1425px;
+    
+    background: #274492;
+    transform: rotate(-90deg);
+}
+
+.form {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 458px;
+    height: 634px;
+    left: 252px;
+    top: 132px;
+    
+    background: #FCFCFC;
+    border: 1px solid #C4C4C4;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+
+.f1 {
+    position: absolute;
+    width: 141px;
+    height: 141px;
+    left: 158px;
+    top: 58px;
+    
+    background: url(image 34logogo.svg), url(image 34logogo.svg);
+    border-radius: 16px;
+}
+
+.form1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 23px;
+    
+    position: absolute;
+    width: 307px;
+    height: 230px;
+    left: 75px;
+    top: 249px;
+
+}
