@@ -1,0 +1,119 @@
+.main h1 {
+    margin-left: 100px;
+    color: #2756b2;
+    font-weight: bold;
+    font-size: 30px;
+    font-style: Poppins;
+}
+
+.main h2 {
+    margin-left: 100px;
+    font-size: 15px;
+}
+
+.main h2.sub {
+    font-size: 15px;
+    color: #777777;
+}
+  
+.main h2 .subsub {
+    font-size: 13px;
+    color: #748CCC;
+
+}
+
+.main .container{
+    float: left;
+    max-width: fit-content;
+    height: auto;
+    padding: 15px 0;
+    margin: 10px auto;
+    background-color: none;
+    border-radius: 10px;
+    box-shadow: 0;
+  }
+  
+  
+  .main .container .nav{
+        display: flex;
+        width: 100%;
+        justify-content: space-between;
+      }
+      
+      #search{
+        width: 200px;
+        height: 30px;
+        border-radius: 7px;
+        border: 1px solid #2756b2 ;
+        padding-left: 10px;
+      }
+      
+      #tombolsearch{
+        background-color: rgba(0, 0, 0, 0);
+        border: 1px;
+        margin-left: 0px;
+        cursor: pointer;
+      }
+
+      .isi{
+        margin: 0px 0;
+        text-align: center;
+      }
+
+      select {
+        width: 100px;
+        height: 30px;
+        color: #2756b2;
+        border: 1px solid #2756b2;
+        border-radius: 7px;
+      }
+
+    .main .container .nav a .button {
+        display: inline-flex;
+        width: 170px;
+        height: 30px;
+        border: none;
+        border-radius: 7px;
+        background-color: #2756b2;
+        cursor: pointer;
+        color: #ffffff;
+        align-items: center;
+        padding: 10px;
+      }
+      
+    .main .container .nav a .button .button_text{
+        width: 168px;
+        height: 24px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+      }
+
+    .main .container .nav a .button .button_icon{
+        font-size: 10px;
+        margin-top: 2px;
+      }
+
+.header h4.button {
+position: absolute;
+width: 252px;
+height: 24px;
+left: 47px;
+top: 88px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+
+
+/* Color/Text */
+
+color: #2D2F33;
+    
+}
+      
